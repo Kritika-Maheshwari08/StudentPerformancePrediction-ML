@@ -315,3 +315,5 @@ This project is a student performance analytics dashboard. It combines data visu
  #1. python -m venv venv
  #2. venv/Scripts/Activate
  #3. streamlit run app.py
+
+ Contributor: Kritika Maheshwari
